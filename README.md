@@ -1,2 +1,2 @@
 # NotesApp
-Wiki Page includes App Images
+Wiki -> Home Page includes App Images
